@@ -2,7 +2,7 @@
 // 💝 OPEN NAAAAAA 💝
 // ============================================
 
-const CONFIG = rnzo
+const CONFIG = renzo
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
     valentineName: "Jade",
